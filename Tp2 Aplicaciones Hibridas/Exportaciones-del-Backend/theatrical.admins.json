@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "666c5efda4d4914e50d43896"
+  },
+  "nombreTeatro": "Teatro Colón",
+  "mail": "contacto@teatrocolon.com",
+  "contraseña": "$2b$10$NZEIPGMAU5dpAq2VV9Qe.eFNWpjIrou7jwobQ4/LcOQHILvmtqqUO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c601b6f0f710b705388f9"
+  },
+  "nombreTeatro": "Teatro San Martín",
+  "mail": "info@teatrosanmartin.buenosaires.gob.ar",
+  "contraseña": "$2b$10$0J1CcGzrNDKDH/KAWvcZr.1PvV95tAAhE2WD/ePxvvOvgcrJlvSM.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c60366f0f710b705388fb"
+  },
+  "nombreTeatro": "Teatro Cervantes",
+  "mail": "info@teatrocervantes.gob.ar",
+  "contraseña": "$2b$10$d/rHlMzuXpoPUPMTWLuUd.1k1Yij5x/xQANXwmUCvkc8H0.rTwzDG",
+  "__v": 0
+}]

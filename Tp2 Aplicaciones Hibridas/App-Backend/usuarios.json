@@ -1,0 +1,1 @@
+{"usuarios":[{"id":"U1","nombre":"Nuevo Nombre","foto":"ruta/a/la/foto_usuario1.jpg","mail":"nuevo@example.com","contraseña":"contraseñausuario1"},{"id":"U2","nombre":"Usuario2","foto":"ruta/a/la/foto_usuario2.jpg","mail":"usuario2@example.com","contraseña":"contraseñausuario2"}]}

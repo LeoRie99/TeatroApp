@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "6670d5d03b3f1262668f66ad"
+  },
+  "titulo": "Don Giovanni",
+  "foto": "https://imgs.search.brave.com/9jfXh7kzSrKvvlBZVO-Vp3qx6lEnRUr32bmK-G3FvmM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUF82MzE4/MDYtTUxCMjc5ODQ2/NjIxMDhfMDgyMDE4/LVguanBn",
+  "director": "Alejandro Montoya",
+  "elenco": "Roberto Sanchez, María López, Juan Martínez, Carlos Rodríguez",
+  "precio": 1800,
+  "descripcion": "Ópera en dos actos de Wolfgang Amadeus Mozart, basada en el mito de Don Juan. Una de las obras maestras del repertorio operístico.",
+  "admin": {
+    "$oid": "666c5efda4d4914e50d43896"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670d6043b3f1262668f66af"
+  },
+  "titulo": "La noche estrellada",
+  "foto": "https://imgs.search.brave.com/toVgeUHa7JfSXvvKNoqWdZmb5rmv3NDhCdxrmSQODKs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lbmNp/Y2xvcGVkaWFpYmVy/b2FtZXJpY2FuYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMTIvbGEtbm9j/aGUtZXN0cmVsbGFk/YS5qcGc",
+  "director": "Sofía Hernández",
+  "elenco": "Diego Ramírez",
+  "precio": 5000,
+  "descripcion": "Una obra maestra de Vincent van Gogh, creada en 1889.",
+  "admin": {
+    "$oid": "666c5efda4d4914e50d43896"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670d6453b3f1262668f66cf"
+  },
+  "titulo": "El Cascanueces",
+  "foto": "https://creacuervos.com/wp-content/uploads/2020/11/historia-del-cascanueces-desktop-1.jpg",
+  "director": "Ana García",
+  "elenco": "Laura Pérez, José Gómez",
+  "precio": 1600,
+  "descripcion": "Ballet en dos actos con música de Pyotr Ilyich Tchaikovsky. Una obra navideña clásica que cuenta la historia de Clara y su Cascanueces.",
+  "admin": {
+    "$oid": "666c5efda4d4914e50d43896"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670d6e13b3f1262668f672f"
+  },
+  "titulo": "Romeo y Julieta",
+  "foto": "https://loresumo.com/wp-content/uploads/2020/01/romeo-y-julieta2-1024x767.jpg",
+  "director": "Martín Fernández",
+  "elenco": "Andrés Martínez, Valeria González",
+  "precio": 1700,
+  "descripcion": "Ballet basado en la tragedia de William Shakespeare, con música de Sergei Prokofiev. Una obra clásica que narra la historia de amor prohibido entre Romeo y Julieta.",
+  "admin": {
+    "$oid": "666c5efda4d4914e50d43896"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670da993b3f1262668f67eb"
+  },
+  "titulo": "Carmen",
+  "foto": "https://www.clarin.com/img/2022/10/15/8CtUbtuwV_360x240__1.jpg",
+  "director": "Elena Ruiz",
+  "elenco": "Sofía Díaz, Pablo Hernández",
+  "precio": 2000,
+  "descripcion": "Ópera en cuatro actos de Georges Bizet, basada en la novela de Prosper Mérimée. Conocida por su música vibrante y la historia de la seductora Carmen y el soldado Don José.",
+  "admin": {
+    "$oid": "666c5efda4d4914e50d43896"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670db1c3b3f1262668f67fb"
+  },
+  "titulo": "La Bohème",
+  "foto": "https://res.cloudinary.com/opera-national-de-paris/image/upload/w_768/f_auto/v1/user_photos/bmyiwhnrwx3fvjwgma3c?_a=E",
+  "director": "Antonio Jiménez",
+  "elenco": "Javier Sánchez, Ana Martínez",
+  "precio": 1900,
+  "descripcion": "Ópera en cuatro actos de Giacomo Puccini, basada en la novela 'Escenas de la vida bohemia' de Henri Murger. Una de las óperas más apreciadas por su emotiva historia y música.",
+  "admin": {
+    "$oid": "666c5efda4d4914e50d43896"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670dbf83b3f1262668f680b"
+  },
+  "titulo": "La Casa de Bernarda Alba",
+  "foto": "https://obrasdeteatrocortas.org/wp-content/uploads/2021/02/la-casa-de-bernarda-alba-obra-de-teatro-corta.jpg",
+  "director": "Isabel Rojas",
+  "elenco": "Carmen Rodríguez, Marta Pérez",
+  "precio": 1500,
+  "descripcion": "Obra teatral de Federico García Lorca que explora temas como la opresión, la represión y la libertad femenina.",
+  "admin": {
+    "$oid": "666c601b6f0f710b705388f9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670dc623b3f1262668f682b"
+  },
+  "titulo": "Esperando a Godot",
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Waiting_for_Godot_in_Doon_School.jpg",
+  "director": "Juan Carlos Gómez",
+  "elenco": "Jorge González, Carlos Soto",
+  "precio": 1200,
+  "descripcion": "Drama existencialista de Samuel Beckett que explora la espera sin sentido y la búsqueda de significado en la vida.",
+  "admin": {
+    "$oid": "666c601b6f0f710b705388f9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670dd3a3b3f1262668f683b"
+  },
+  "titulo": "El Jardín de los Cerezos",
+  "foto": "https://m.media-amazon.com/images/M/MV5BNTI4N2M1YjctYTg4Zi00MTM1LWE4NDgtMDFhMzdhOGFkMWVmXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_QL75_UY281_CR11,0,190,281_.jpg",
+  "director": "Patricia López",
+  "elenco": "Ana Rosa Martínez",
+  "precio": 1800,
+  "descripcion": "Obra de teatro de Anton Chéjov que trata sobre el paso del tiempo, los cambios sociales y la pérdida de tradiciones familiares.",
+  "admin": {
+    "$oid": "666c601b6f0f710b705388f9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670ded73b3f1262668f685b"
+  },
+  "titulo": "El Fantasma de la Ópera",
+  "foto": "https://www.elespectadorimaginario.com/wp-content/uploads/El_Fanstasma-_2004-01.jpg",
+  "director": "María González",
+  "elenco": "David Ramírez, Laura Martínez",
+  "precio": 2200,
+  "descripcion": "Musical de Andrew Lloyd Webber basado en la novela de Gaston Leroux, que combina romance, misterio y drama en un teatro de ópera parisino.",
+  "admin": {
+    "$oid": "666c601b6f0f710b705388f9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670df5b3b3f1262668f686b"
+  },
+  "titulo": "La Casa de las Flores",
+  "foto": "https://es.web.img3.acsta.net/c_300_300/pictures/18/01/20/00/30/1814282.jpg",
+  "director": "Jorge Pérez",
+  "elenco": "Ana Sánchez, Carlos Gómez",
+  "precio": 1800,
+  "descripcion": "Comedia teatral que explora las dinámicas familiares y los secretos detrás de una familia aparentemente perfecta.",
+  "admin": {
+    "$oid": "666c601b6f0f710b705388f9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670dfd53b3f1262668f687b"
+  },
+  "titulo": "El Rey Lear",
+  "foto": "https://loresumo.com/wp-content/uploads/2019/07/cordelia.jpg",
+  "director": "Luisa Martínez",
+  "elenco": "Pablo Fernández, Marta López",
+  "precio": 2000,
+  "descripcion": "Tragedia de William Shakespeare que examina el poder, la traición y la locura en la corte del rey Lear.",
+  "admin": {
+    "$oid": "666c601b6f0f710b705388f9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670e05f3b3f1262668f688b"
+  },
+  "titulo": "El Misántropo",
+  "foto": "https://cinemagavia.es/wp-content/uploads/2022/10/El-Misa%CC%81ntropo.jpeg.webp",
+  "director": "Andrés Gutiérrez",
+  "elenco": "Carolina Soto, Javier Rodríguez",
+  "precio": 1500,
+  "descripcion": "Comedia clásica de Molière que critica la hipocresía social y la falsedad en las relaciones humanas.",
+  "admin": {
+    "$oid": "666c60366f0f710b705388fb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670e0c43b3f1262668f689b"
+  },
+  "titulo": "Madame Butterfly",
+  "foto": "https://www.lanacion.com.ar/resizer/v2/CJ6KFCK5OREJJIP227H76WN5PA.jpg?auth=21aa1e0938d32409646ac00914d1098a3ecafb84036b2305dee66f274b7283a4&width=420&height=630&quality=70&smart=true",
+  "director": "Lucía Fernández",
+  "elenco": "Diego López, Marina Lee",
+  "precio": 2200,
+  "descripcion": "Ópera de Giacomo Puccini que relata la trágica historia de amor entre una joven japonesa y un oficial de la Marina de los EE.UU.",
+  "admin": {
+    "$oid": "666c60366f0f710b705388fb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670e14c3b3f1262668f68ab"
+  },
+  "titulo": "Los Miserables",
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cosette-sweeping-les-miserables-emile-bayard-1862.jpg",
+  "director": "Ana Martín",
+  "elenco": "Carlos Pérez, Laura Gómez",
+  "precio": 1900,
+  "descripcion": "Musical basado en la novela de Victor Hugo, que sigue la vida de varios personajes durante la Revolución Francesa.",
+  "admin": {
+    "$oid": "666c60366f0f710b705388fb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670e28b3b3f1262668f68bb"
+  },
+  "titulo": "La Noche de los Asesinos",
+  "foto": "https://cinemagavia.es/wp-content/uploads/2022/09/Estreno-de-La-noche-de-los-asesinos.jpeg",
+  "director": "Javier Ruiz",
+  "elenco": "Sofía Martínez, Andrés Gómez",
+  "precio": 1700,
+  "descripcion": "Obra teatral de José Triana que explora la locura y las relaciones familiares en un contexto opresivo.",
+  "admin": {
+    "$oid": "666c60366f0f710b705388fb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670e3533b3f1262668f68db"
+  },
+  "titulo": "La Celestina",
+  "foto": "https://www.elteatroreinavictoria.com/wp-content/uploads/2024/01/la-celestina.jpg",
+  "director": "María Sánchez",
+  "elenco": "Pablo Martínez, Lucía Pérez",
+  "precio": 1600,
+  "descripcion": "Tragicomedia de Fernando de Rojas que narra la historia de amor entre Calisto y Melibea, con la intervención de la alcahueta Celestina.",
+  "admin": {
+    "$oid": "666c60366f0f710b705388fb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670e5303b3f1262668f690b"
+  },
+  "titulo": "El Sueño de una Noche de Verano",
+  "foto": "https://i0.wp.com/comunidad.recursoseducativos.com/wp-content/uploads/2017/04/el-sueno-de-una-ncohe-de-verano.jpg?w=1080",
+  "director": "Ana Martínez",
+  "elenco": "Roberto Gómez, María Rodríguez, Carlos Sánchez",
+  "precio": 1800,
+  "descripcion": "Comedia romántica de William Shakespeare que explora las travesuras de las hadas y los enredos amorosos durante una noche de verano.",
+  "admin": {
+    "$oid": "666c60366f0f710b705388fb"
+  },
+  "__v": 0
+}]
